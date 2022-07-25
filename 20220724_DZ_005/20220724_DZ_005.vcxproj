@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="20220724_DZ_005.cpp" />
+    <ClCompile Include="StrOperation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynamicStack.h" />
+    <ClInclude Include="StrOperation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,5 +18,16 @@
     <ClCompile Include="20220724_DZ_005.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StrOperation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynamicStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StrOperation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
